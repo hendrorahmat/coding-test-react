@@ -4,7 +4,7 @@ import Error from "./components/Error";
 import Loading from "./components/Loading";
 
 /**
- * TODO: please show people who may be friends, and use <Loading /> and <Error />.
+ * TODO:
  * 1. Create Custom hook is call useFriends with these features:
  *   - Fetch data from endpoint
  *   - Pagination with data from endpoint
